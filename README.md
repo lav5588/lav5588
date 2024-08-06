@@ -7,8 +7,8 @@ I'm a passionate MERN Stack Developer with a knack for creating robust, scalable
 - **Full Name**: Lav Kumar Yadav
 - **Location**: Ghaziabad UP India
 - **Email**: lavkumar3000@gmail.com
-- **LinkedIn**: [[Your LinkedIn Profile URL](https://www.linkedin.com/in/lav-kumar-yadav-b26853223/)]
-- **Portfolio**: [[Your Portfolio URL](https://lav-kumar-yadav.onrender.com/)]
+- **LinkedIn**: [[Visit Profile](https://www.linkedin.com/in/lav-kumar-yadav-b26853223/)]
+- **Portfolio**: [[Visit Portfolio](https://lav-kumar-yadav.onrender.com/)]
 
 ### 💻 Technologies & Tools
 - **Frontend**: React, Redux, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS
